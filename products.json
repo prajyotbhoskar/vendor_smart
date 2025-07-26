@@ -1,0 +1,57 @@
+{
+  "demo_001": {
+    "supplier_email": "supplier1@demo.com",
+    "name": "Fresh Tomatoes",
+    "price": 35.0,
+    "category": "Vegetables",
+    "stock": 100,
+    "delivery_area": "Mumbai Central",
+    "description": "Fresh red tomatoes, Grade A quality",
+    "created_at": "2025-07-26T23:36:57.256754",
+    "active": true
+  },
+  "demo_002": {
+    "supplier_email": "supplier1@demo.com",
+    "name": "Basmati Rice",
+    "price": 85.0,
+    "category": "Grains",
+    "stock": 500,
+    "delivery_area": "Mumbai, Pune",
+    "description": "Premium quality basmati rice",
+    "created_at": "2025-07-26T23:36:57.256754",
+    "active": true
+  },
+  "demo_003": {
+    "supplier_email": "supplier2@demo.com",
+    "name": "Sunflower Oil",
+    "price": 120.0,
+    "category": "Oil",
+    "stock": 200,
+    "delivery_area": "Maharashtra",
+    "description": "Pure sunflower cooking oil",
+    "created_at": "2025-07-26T23:36:57.256754",
+    "active": true
+  },
+  "demo_004": {
+    "supplier_email": "supplier2@demo.com",
+    "name": "Red Chili Powder",
+    "price": 180.0,
+    "category": "Spices",
+    "stock": 50,
+    "delivery_area": "Mumbai, Thane",
+    "description": "Premium quality red chili powder",
+    "created_at": "2025-07-26T23:36:57.256754",
+    "active": true
+  },
+  "demo_005": {
+    "supplier_email": "supplier1@demo.com",
+    "name": "Fresh Onions",
+    "price": 25.0,
+    "category": "Vegetables",
+    "stock": 300,
+    "delivery_area": "Mumbai Central",
+    "description": "Fresh quality onions",
+    "created_at": "2025-07-26T23:36:57.256754",
+    "active": true
+  }
+}
